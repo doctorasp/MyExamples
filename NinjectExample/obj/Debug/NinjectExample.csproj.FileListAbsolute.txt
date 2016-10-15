@@ -1,0 +1,11 @@
+D:\C#\Projects\NinjectExample\NinjectExample\bin\Debug\NinjectExample.exe.config
+D:\C#\Projects\NinjectExample\NinjectExample\bin\Debug\NinjectExample.exe
+D:\C#\Projects\NinjectExample\NinjectExample\bin\Debug\NinjectExample.pdb
+D:\C#\Projects\NinjectExample\NinjectExample\bin\Debug\Ninject.dll
+D:\C#\Projects\NinjectExample\NinjectExample\bin\Debug\Ninject.xml
+D:\C#\Projects\NinjectExample\NinjectExample\obj\Debug\NinjectExample.csprojResolveAssemblyReference.cache
+D:\C#\Projects\NinjectExample\NinjectExample\obj\Debug\NinjectExample.exe
+D:\C#\Projects\NinjectExample\NinjectExample\obj\Debug\NinjectExample.pdb
+D:\C#\Repos\warehouse\NinjectExample\NinjectExample\bin\Debug\NinjectExample.exe.config
+D:\C#\Repos\warehouse\NinjectExample\NinjectExample\obj\Debug\NinjectExample.exe
+D:\C#\Repos\warehouse\NinjectExample\NinjectExample\obj\Debug\NinjectExample.pdb
